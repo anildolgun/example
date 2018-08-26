@@ -21,5 +21,5 @@ C_to_K(32) # Converts from 32 C to Kelvin
 C_to_K(44) # Converts from 44 C  to Kelvin
 }
 \seealso{
-C_to_F, F_to_K
+C_to_F, F_to_K, F_to_K
 }
