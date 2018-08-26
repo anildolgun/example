@@ -10,7 +10,7 @@
 #'
 #' @seealso
 #'
-#' C_to_F, F_to_K
+#' C_to_F, F_to_K, F_to_K
 #'
 #' @export
 #'
